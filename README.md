@@ -1,2 +1,2 @@
 # Neetcode
-Collection of my solutions for Leetcode problems, sorted by Neetcode.io!
+Collection of my solutions for [Leetcode](leetcode.com) problems, sorted by [Neetcode.io](neetcode.io)!
